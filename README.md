@@ -1,4 +1,4 @@
 # Education App
 
-A Education App Flutter project.
+An Education App Flutter project.
 
